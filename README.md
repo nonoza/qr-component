@@ -31,7 +31,7 @@ Mobile
 
 ### Links
 
-- Solution URL: [Link to Soulution](https://www.frontendmentor.io/solutions/qr-code-component-using-sass-D1pxDunfH-)
+- Solution URL: [Github](https://github.com/nonoza/qr-component)
 - Live Site URL: [Link to Live](https://nonoza.github.io/qr-component/)
 
 ## My process
@@ -43,25 +43,22 @@ Mobile
  
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Sass
-- mobile first
-
+- Mobile Approach (Responsive)
+- Vanilla CSS
+- Reat.js
 
 
 
 ### What I learned
 
-This was a simple component that I had to build. I learned SASS in building this project and also upskilling my flexbox skills.
+I learned about creating a react project and deploy it to github.
 
 
 
 
 ### Useful resources
 
-- [Sass](https://sass-lang.com/guide) - The Sass website has been helping in following all the steps in building with Sass
+- [Reactjs](https://react.dev/) - This documentation has been helping alot.
 
 
 
