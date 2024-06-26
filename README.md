@@ -22,9 +22,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 Deskop
-![](./images/desktop.PNG)
+![](./src/qr-comment-desktop.png)
 Mobile
-![](./images/mobile.PNG)
+![](./src/qr-comment-mobile.png)
 
 
 
