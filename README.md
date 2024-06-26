@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Deskop
 ![](./src/qr-comment-desktop.png)
 Mobile
-![](./src/qr-comment-mobile.png)
+![](./src/qr-component-mobile.png)
 
 
 
